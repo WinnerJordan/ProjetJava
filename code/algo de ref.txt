@@ -1,0 +1,3 @@
+nombreLocal = 0
+id = ++nombreLocal
+ref = ((4 - length(String.valueOf(id))) * "0") + String.valueOf(id)
